@@ -21,9 +21,9 @@ class PomodoroMenu extends PanelMenu.Button {
       BREAK: 2
     }
 
-    this.workMin = .25;
-    this.breakMin = .25;
-    this.cycles = 1;
+    this.workMin = 25;
+    this.breakMin = 5;
+    this.cycles = 4;
     this.state = this.states.STOP;
     this.timeSpent = 0;
     this.curCycle = 1;

@@ -1,6 +1,6 @@
 {
   "name": "Simple Pomorodo",
   "description": "A very simple pomodoro timer for the Gnome top bar",
-  "uuid": "SimplePomorodo@goatcheese90",
+  "uuid": "simple-pomodoro@goatcheese90",
   "shell-version": ["3.28.1"]
  }
